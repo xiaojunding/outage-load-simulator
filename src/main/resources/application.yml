@@ -1,0 +1,6 @@
+server:
+   port: 8800
+   servlet.contextPath: /snapshot
+management.endpoints.web.base-path: /
+management.endpoint.health.show-details: always
+management.endpoints.web.exposure.include: health,info,metrics,refresh

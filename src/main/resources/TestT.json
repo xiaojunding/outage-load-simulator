@@ -1,0 +1,16 @@
+[
+	{
+		"id" : 835649,
+		"transformer_number" : "10740908058",
+		"premise_number" : null,
+		"order_detail_id" : "189578",
+		"device_outage_status" : "DEVICE_RESTORED",
+		"first_snapshot_id" : 75210,
+		"last_snapshot_id" : 75228,
+		"updated_snapshot_id" : 75227,
+		"moved_to_device_outage_id" : -1,
+		"state" : "MO",
+		"create_timestamp" : "2020-08-10 00:06:07",
+		"update_timestamp" : "2020-08-10 00:06:07"
+	}
+]

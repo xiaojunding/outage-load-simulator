@@ -1,0 +1,1168 @@
+{
+    "Message": "requested program preoutage",
+    "HasError": false,
+    "Data": {
+        "opCenters": [
+            {
+                "opCenterCode": "GRC",
+                "opCenterName": "GRANITE CITY (MARYVILLE)",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-11-14",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "RVB",
+                "opCenterName": "RIVERBEND (MARYVILLE)",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-11-14",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "505",
+                "opCenterName": "BERKELEY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "106",
+                "opCenterName": "PEORIA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "523",
+                "opCenterName": "WENTZVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "507",
+                "opCenterName": "GERALDINE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "137",
+                "opCenterName": "MARYVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "134",
+                "opCenterName": "ALTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "144",
+                "opCenterName": "ANNA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "139",
+                "opCenterName": "BELLEVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "118",
+                "opCenterName": "BLOOMINGTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "145",
+                "opCenterName": "CARBONDALE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "122",
+                "opCenterName": "CHAMPAIGN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "149",
+                "opCenterName": "CENTRALIA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "110",
+                "opCenterName": "CARTHAGE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "123",
+                "opCenterName": "DANVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "119",
+                "opCenterName": "DECATUR",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "141",
+                "opCenterName": "EAST ST. LOUIS",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "124",
+                "opCenterName": "EFFINGHAM",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "100",
+                "opCenterName": "EASTERN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "101",
+                "opCenterName": "GALESBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "125",
+                "opCenterName": "GILMAN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "146",
+                "opCenterName": "HARRISBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "136",
+                "opCenterName": "HILLSBORO",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "111",
+                "opCenterName": "JACKSONVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "112",
+                "opCenterName": "JERSEYVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "102",
+                "opCenterName": "KEWANEE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "104",
+                "opCenterName": "LASALLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "120",
+                "opCenterName": "LINCOLN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "147",
+                "opCenterName": "MARION",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "126",
+                "opCenterName": "MATTOON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "113",
+                "opCenterName": "MACOMB",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "142",
+                "opCenterName": "MOUNT VERNON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "127",
+                "opCenterName": "OLNEY",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "128",
+                "opCenterName": "PANA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "130",
+                "opCenterName": "PAXTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "114",
+                "opCenterName": "PETERSBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "115",
+                "opCenterName": "PITTSFIELD",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "116",
+                "opCenterName": "QUINCY",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "150",
+                "opCenterName": "ROBINSON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "143",
+                "opCenterName": "SPARTA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "121",
+                "opCenterName": "SPRINGFIELD",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "132",
+                "opCenterName": "TUSCOLA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "117",
+                "opCenterName": "VIRDEN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "148",
+                "opCenterName": "BENTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "510",
+                "opCenterName": "BOONVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "522",
+                "opCenterName": "COLUMBIA",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "516",
+                "opCenterName": "DEXTER",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "506",
+                "opCenterName": "DORSETT",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "520",
+                "opCenterName": "ELLISVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "511",
+                "opCenterName": "EXCELSIOR SPRINGS",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "521",
+                "opCenterName": "FRANKLIN",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "517",
+                "opCenterName": "HAYTI",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "508",
+                "opCenterName": "JEFFERSON",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "503",
+                "opCenterName": "JEFFERSON CITY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "504",
+                "opCenterName": "LAKESIDE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "509",
+                "opCenterName": "MACKENZIE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "513",
+                "opCenterName": "MEXICO",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "514",
+                "opCenterName": "MOBERLY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "500",
+                "opCenterName": "ST CHARLES",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "519",
+                "opCenterName": "ST FRANCOIS",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "518",
+                "opCenterName": "POTOSI",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "109",
+                "opCenterName": "CANTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "515",
+                "opCenterName": "CAPE GIRARDEAU",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "512",
+                "opCenterName": "KIRKSVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2019-09-05",
+                "terminateDate": "2050-12-31"
+            },
+            {
+                "opCenterCode": "MRY",
+                "opCenterName": "MARYVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-10-25",
+                "terminateDate": "2025-10-25"
+            },
+            {
+                "opCenterCode": "GER",
+                "opCenterName": "GERALDINE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-10-25",
+                "terminateDate": "2025-10-25"
+            },
+            {
+                "opCenterCode": "BRK",
+                "opCenterName": "BERKELEY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-12-15",
+                "terminateDate": "2025-12-20"
+            },
+            {
+                "opCenterCode": "PEO",
+                "opCenterName": "PEORIA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2017-12-15",
+                "terminateDate": "2025-12-20"
+            },
+            {
+                "opCenterCode": "BNV",
+                "opCenterName": "BOONVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "CAR",
+                "opCenterName": "CARUTHERSVILLE (CAPE GIRARDEAU)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "CHT",
+                "opCenterName": "CHARLESTON (CAPE GIRARDEAU)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "COL",
+                "opCenterName": "COLUMBIA",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "DEX",
+                "opCenterName": "DEXTER",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "DOR",
+                "opCenterName": "DORSETT",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "ELD",
+                "opCenterName": "ELDON",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "ELI",
+                "opCenterName": "ELLISVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "EXC",
+                "opCenterName": "EXCELSIOR SPRINGS",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "FRK",
+                "opCenterName": "FRANKLIN",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "HAY",
+                "opCenterName": "HAYTI",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "JEF",
+                "opCenterName": "JEFFERSON",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "JFC",
+                "opCenterName": "JEFFERSON CITY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "LKS",
+                "opCenterName": "LAKESIDE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "MAC",
+                "opCenterName": "MACKENZIE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "MEX",
+                "opCenterName": "MEXICO",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "MOB",
+                "opCenterName": "MOBERLY",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "POR",
+                "opCenterName": "PORTAGEVILLE (CAPE GIRARDEAU)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "POT",
+                "opCenterName": "POTOSI",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "ROL",
+                "opCenterName": "ROLLA (JEFFERSON CITY)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "SEN",
+                "opCenterName": "SENATH (CAPE GIRARDEAU)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "STC",
+                "opCenterName": "ST CHARLES",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "STE",
+                "opCenterName": "STEELE (CAPE GIRARDEAU)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "STF",
+                "opCenterName": "ST FRANCOIS",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-09-11",
+                "terminateDate": "2040-12-31"
+            },
+            {
+                "opCenterCode": "ALT",
+                "opCenterName": "ALTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "ANA",
+                "opCenterName": "ANNA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "BEL",
+                "opCenterName": "BELLEVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "BEN",
+                "opCenterName": "BENTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "BLO",
+                "opCenterName": "BLOOMINGTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "BRD",
+                "opCenterName": "BEARDSTOWN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CAN",
+                "opCenterName": "CANTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CBD",
+                "opCenterName": "CARBONDALE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CMP",
+                "opCenterName": "CHAMPAIGN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CNT",
+                "opCenterName": "CENTRALIA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CTG",
+                "opCenterName": "CARTHAGE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "DAN",
+                "opCenterName": "DANVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "DEC",
+                "opCenterName": "DECATUR",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "EAS",
+                "opCenterName": "EAST ST. LOUIS",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "EFF",
+                "opCenterName": "EFFINGHAM",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "ESL",
+                "opCenterName": "EAST ST. LOUIS",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "EST",
+                "opCenterName": "EASTERN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "GAL",
+                "opCenterName": "GALESBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "GIL",
+                "opCenterName": "GILMAN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "HAR",
+                "opCenterName": "HARRISBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "HLB",
+                "opCenterName": "HILLSBORO",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "JCK",
+                "opCenterName": "JACKSONVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "JER",
+                "opCenterName": "JERSEYVILLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "KEW",
+                "opCenterName": "KEWANEE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "LAC",
+                "opCenterName": "LACON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "LAS",
+                "opCenterName": "LASALLE",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "LIC",
+                "opCenterName": "LINCOLN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "MAR",
+                "opCenterName": "MARION",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "MAT",
+                "opCenterName": "MATTOON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "MCB",
+                "opCenterName": "MACOMB",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "MTV",
+                "opCenterName": "MOUNT VERNON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "OLN",
+                "opCenterName": "OLNEY",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PAN",
+                "opCenterName": "PANA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PAR",
+                "opCenterName": "PARIS",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PAX",
+                "opCenterName": "PAXTON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PEK",
+                "opCenterName": "PEKIN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PET",
+                "opCenterName": "PETERSBURG",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "PIT",
+                "opCenterName": "PITTSFIELD",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "QCY",
+                "opCenterName": "QUINCY",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "ROB",
+                "opCenterName": "ROBINSON",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "SPA",
+                "opCenterName": "SPARTA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "SPI",
+                "opCenterName": "SPRINGFIELD",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "TSC",
+                "opCenterName": "TUSCOLA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "TUS",
+                "opCenterName": "TUSCOLA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "HSC",
+                "opCenterName": "TUSCOLA",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "VIR",
+                "opCenterName": "VIRDEN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "WES",
+                "opCenterName": "WESTERN",
+                "opCenterState": "IL",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "CAP",
+                "opCenterName": "CAPE GIRARDEAU",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "KRK",
+                "opCenterName": "KIRKSVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-02-13",
+                "terminateDate": "2025-10-31"
+            },
+            {
+                "opCenterCode": "BFD",
+                "opCenterName": "BROOKFIELD (KIRKSVILLE)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-07-11",
+                "terminateDate": "2040-08-15"
+            },
+            {
+                "opCenterCode": "WEN",
+                "opCenterName": "WENTZVILLE",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-07-11",
+                "terminateDate": "2040-08-15"
+            },
+            {
+                "opCenterCode": "LOU",
+                "opCenterName": "LOUISIANA (WENTZVILLE)",
+                "opCenterState": "MO",
+                "program": "PREOUTAGE",
+                "effectiveDate": "2018-07-11",
+                "terminateDate": "2040-08-15"
+            }
+        ]
+    }
+}

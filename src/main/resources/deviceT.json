@@ -1,0 +1,695 @@
+[
+	{
+		"transformer_number" : "02200370011",
+		"premise_number" : null,
+		"order_detail_id" : "189570",
+		"first_snapshot_id" : 75031,
+		"last_snapshot_id" : 75238,
+		"updated_snapshot_id" : 75221,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02180393006",
+		"premise_number" : "496820701",
+		"order_detail_id" : "189551",
+		"first_snapshot_id" : 75052,
+		"last_snapshot_id" : 75294,
+		"updated_snapshot_id" : 75215,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020410002",
+		"premise_number" : null,
+		"order_detail_id" : "189658",
+		"first_snapshot_id" : 75070,
+		"last_snapshot_id" : 75289,
+		"updated_snapshot_id" : 75275,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02060310005",
+		"premise_number" : "801950101",
+		"order_detail_id" : "189662",
+		"first_snapshot_id" : 75071,
+		"last_snapshot_id" : 75285,
+		"updated_snapshot_id" : 75276,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02240420012",
+		"premise_number" : null,
+		"order_detail_id" : "189550",
+		"first_snapshot_id" : 75098,
+		"last_snapshot_id" : 75266,
+		"updated_snapshot_id" : 75215,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020410021",
+		"premise_number" : null,
+		"order_detail_id" : "189658",
+		"first_snapshot_id" : 75103,
+		"last_snapshot_id" : 75289,
+		"updated_snapshot_id" : 75275,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020410025",
+		"premise_number" : null,
+		"order_detail_id" : "189658",
+		"first_snapshot_id" : 75103,
+		"last_snapshot_id" : 75289,
+		"updated_snapshot_id" : 75275,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02080390025",
+		"premise_number" : null,
+		"order_detail_id" : "189549",
+		"first_snapshot_id" : 75108,
+		"last_snapshot_id" : 75237,
+		"updated_snapshot_id" : 75215,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02080390012",
+		"premise_number" : null,
+		"order_detail_id" : "189549",
+		"first_snapshot_id" : 75109,
+		"last_snapshot_id" : 75237,
+		"updated_snapshot_id" : 75215,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02220250040",
+		"premise_number" : "737331301",
+		"order_detail_id" : "189564",
+		"first_snapshot_id" : 75112,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75220,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054250440",
+		"premise_number" : null,
+		"order_detail_id" : "189585",
+		"first_snapshot_id" : 75114,
+		"last_snapshot_id" : 75237,
+		"updated_snapshot_id" : 75230,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054202200",
+		"premise_number" : null,
+		"order_detail_id" : "189616",
+		"first_snapshot_id" : 75124,
+		"last_snapshot_id" : 75270,
+		"updated_snapshot_id" : 75247,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054292710",
+		"premise_number" : null,
+		"order_detail_id" : "189644",
+		"first_snapshot_id" : 75131,
+		"last_snapshot_id" : 75290,
+		"updated_snapshot_id" : 75268,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02130190010",
+		"premise_number" : null,
+		"order_detail_id" : "189610",
+		"first_snapshot_id" : 75137,
+		"last_snapshot_id" : 75245,
+		"updated_snapshot_id" : 75245,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02130050028",
+		"premise_number" : "735950201",
+		"order_detail_id" : "189661",
+		"first_snapshot_id" : 75139,
+		"last_snapshot_id" : 75283,
+		"updated_snapshot_id" : 75276,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02518560009",
+		"premise_number" : null,
+		"order_detail_id" : "189637",
+		"first_snapshot_id" : 75157,
+		"last_snapshot_id" : 75293,
+		"updated_snapshot_id" : 75260,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "10696880039",
+		"premise_number" : null,
+		"order_detail_id" : "189859",
+		"first_snapshot_id" : 75159,
+		"last_snapshot_id" : 75372,
+		"updated_snapshot_id" : 75369,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02250150031",
+		"premise_number" : null,
+		"order_detail_id" : "189546",
+		"first_snapshot_id" : 75165,
+		"last_snapshot_id" : 75214,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02511350015",
+		"premise_number" : "649820101",
+		"order_detail_id" : "189569",
+		"first_snapshot_id" : 75169,
+		"last_snapshot_id" : 75222,
+		"updated_snapshot_id" : 75221,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02150200013",
+		"premise_number" : "275331701",
+		"order_detail_id" : "189703",
+		"first_snapshot_id" : 75171,
+		"last_snapshot_id" : 75322,
+		"updated_snapshot_id" : 75321,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056005",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056006",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056072",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02180160043",
+		"premise_number" : "374820501",
+		"order_detail_id" : "189574",
+		"first_snapshot_id" : 75176,
+		"last_snapshot_id" : 75226,
+		"updated_snapshot_id" : 75225,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02070580017",
+		"premise_number" : null,
+		"order_detail_id" : "189532",
+		"first_snapshot_id" : 75178,
+		"last_snapshot_id" : 75209,
+		"updated_snapshot_id" : 75209,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02070580021",
+		"premise_number" : null,
+		"order_detail_id" : "189532",
+		"first_snapshot_id" : 75178,
+		"last_snapshot_id" : 75209,
+		"updated_snapshot_id" : 75209,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "01140400006",
+		"premise_number" : "423221701",
+		"order_detail_id" : "189596",
+		"first_snapshot_id" : 75180,
+		"last_snapshot_id" : 75240,
+		"updated_snapshot_id" : 75237,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "31010203916",
+		"premise_number" : null,
+		"order_detail_id" : "189655",
+		"first_snapshot_id" : 75185,
+		"last_snapshot_id" : 75275,
+		"updated_snapshot_id" : 75273,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054260821",
+		"premise_number" : null,
+		"order_detail_id" : "189667",
+		"first_snapshot_id" : 75186,
+		"last_snapshot_id" : 75354,
+		"updated_snapshot_id" : 75284,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02220430007",
+		"premise_number" : null,
+		"order_detail_id" : "189562",
+		"first_snapshot_id" : 75193,
+		"last_snapshot_id" : 75224,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035229201",
+		"premise_number" : null,
+		"order_detail_id" : "189531",
+		"first_snapshot_id" : 75195,
+		"last_snapshot_id" : 75210,
+		"updated_snapshot_id" : 75209,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "38051142670",
+		"premise_number" : null,
+		"order_detail_id" : "189558",
+		"first_snapshot_id" : 75197,
+		"last_snapshot_id" : 75222,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07680032040",
+		"premise_number" : null,
+		"order_detail_id" : "189563",
+		"first_snapshot_id" : 75197,
+		"last_snapshot_id" : 75220,
+		"updated_snapshot_id" : 75220,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02170580114",
+		"premise_number" : null,
+		"order_detail_id" : "189548",
+		"first_snapshot_id" : 75197,
+		"last_snapshot_id" : 75221,
+		"updated_snapshot_id" : 75215,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "29010104099",
+		"premise_number" : null,
+		"order_detail_id" : "189624",
+		"first_snapshot_id" : 75200,
+		"last_snapshot_id" : 75294,
+		"updated_snapshot_id" : 75253,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "38051170520",
+		"premise_number" : null,
+		"order_detail_id" : "189587",
+		"first_snapshot_id" : 75201,
+		"last_snapshot_id" : 75235,
+		"updated_snapshot_id" : 75231,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "10752960228",
+		"premise_number" : null,
+		"order_detail_id" : "189553",
+		"first_snapshot_id" : 75202,
+		"last_snapshot_id" : 75218,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "36011213360",
+		"premise_number" : null,
+		"order_detail_id" : "189565",
+		"first_snapshot_id" : 75203,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75221,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054158550",
+		"premise_number" : "683253145",
+		"order_detail_id" : "189604",
+		"first_snapshot_id" : 75205,
+		"last_snapshot_id" : 75246,
+		"updated_snapshot_id" : 75242,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "10740908058",
+		"premise_number" : null,
+		"order_detail_id" : "189578",
+		"first_snapshot_id" : 75210,
+		"last_snapshot_id" : 75228,
+		"updated_snapshot_id" : 75227,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "01510510004",
+		"premise_number" : "307511910",
+		"order_detail_id" : "189534",
+		"first_snapshot_id" : 75210,
+		"last_snapshot_id" : 75228,
+		"updated_snapshot_id" : 75210,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "01121080003",
+		"premise_number" : "644630601",
+		"order_detail_id" : "189535",
+		"first_snapshot_id" : 75210,
+		"last_snapshot_id" : 75239,
+		"updated_snapshot_id" : 75210,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020590017",
+		"premise_number" : null,
+		"order_detail_id" : "189595",
+		"first_snapshot_id" : 75211,
+		"last_snapshot_id" : 75250,
+		"updated_snapshot_id" : 75236,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02513493005",
+		"premise_number" : "229331101",
+		"order_detail_id" : "189537",
+		"first_snapshot_id" : 75211,
+		"last_snapshot_id" : 75236,
+		"updated_snapshot_id" : 75211,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020590026",
+		"premise_number" : null,
+		"order_detail_id" : "189595",
+		"first_snapshot_id" : 75211,
+		"last_snapshot_id" : 75250,
+		"updated_snapshot_id" : 75236,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02020590014",
+		"premise_number" : null,
+		"order_detail_id" : "189595",
+		"first_snapshot_id" : 75211,
+		"last_snapshot_id" : 75250,
+		"updated_snapshot_id" : 75236,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "38073149280",
+		"premise_number" : null,
+		"order_detail_id" : "189543",
+		"first_snapshot_id" : 75212,
+		"last_snapshot_id" : 75216,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "36012132620",
+		"premise_number" : "196252525",
+		"order_detail_id" : "189571",
+		"first_snapshot_id" : 75212,
+		"last_snapshot_id" : 75255,
+		"updated_snapshot_id" : 75222,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "39054306580",
+		"premise_number" : "186117781",
+		"order_detail_id" : "189586",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75231,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231170",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "28010105112",
+		"premise_number" : null,
+		"order_detail_id" : "189544",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75214,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231200",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231140",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231230",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035232570",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231220",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231210",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035232560",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231160",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035231150",
+		"premise_number" : null,
+		"order_detail_id" : "189542",
+		"first_snapshot_id" : 75213,
+		"last_snapshot_id" : 75215,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "10752960228",
+		"premise_number" : null,
+		"order_detail_id" : "189553",
+		"first_snapshot_id" : 75202,
+		"last_snapshot_id" : 75218,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "38073149280",
+		"premise_number" : null,
+		"order_detail_id" : "189543",
+		"first_snapshot_id" : 75212,
+		"last_snapshot_id" : 75216,
+		"updated_snapshot_id" : 75213,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "08616960053",
+		"premise_number" : null,
+		"order_detail_id" : "189552",
+		"first_snapshot_id" : 75216,
+		"last_snapshot_id" : 75238,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "08616960064",
+		"premise_number" : null,
+		"order_detail_id" : "189552",
+		"first_snapshot_id" : 75216,
+		"last_snapshot_id" : 75238,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "08616960015",
+		"premise_number" : null,
+		"order_detail_id" : "189552",
+		"first_snapshot_id" : 75216,
+		"last_snapshot_id" : 75238,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "10752960228",
+		"premise_number" : null,
+		"order_detail_id" : "189553",
+		"first_snapshot_id" : 75202,
+		"last_snapshot_id" : 75218,
+		"updated_snapshot_id" : 75216,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02190170018",
+		"premise_number" : null,
+		"order_detail_id" : "189556",
+		"first_snapshot_id" : 75218,
+		"last_snapshot_id" : 75244,
+		"updated_snapshot_id" : 75218,
+		"device_outage_status" : "DEVICE_MOVED"
+	},
+	{
+		"transformer_number" : "02130510034",
+		"premise_number" : null,
+		"order_detail_id" : "189555",
+		"first_snapshot_id" : 75218,
+		"last_snapshot_id" : 75220,
+		"updated_snapshot_id" : 75218,
+		"device_outage_status" : "DEVICE_MOVED"
+	},
+	{
+		"transformer_number" : "08616960093",
+		"premise_number" : null,
+		"order_detail_id" : "189739",
+		"first_snapshot_id" : 75218,
+		"last_snapshot_id" : 75364,
+		"updated_snapshot_id" : 75336,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056005",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056006",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "07736056072",
+		"premise_number" : null,
+		"order_detail_id" : "189561",
+		"first_snapshot_id" : 75174,
+		"last_snapshot_id" : 75232,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02220430007",
+		"premise_number" : null,
+		"order_detail_id" : "189562",
+		"first_snapshot_id" : 75193,
+		"last_snapshot_id" : 75224,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "37035229201",
+		"premise_number" : null,
+		"order_detail_id" : "189531",
+		"first_snapshot_id" : 75195,
+		"last_snapshot_id" : 75210,
+		"updated_snapshot_id" : 75209,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "38051142670",
+		"premise_number" : null,
+		"order_detail_id" : "189558",
+		"first_snapshot_id" : 75197,
+		"last_snapshot_id" : 75222,
+		"updated_snapshot_id" : 75219,
+		"device_outage_status" : "DEVICE_RESTORED"
+	},
+	{
+		"transformer_number" : "02130510033",
+		"premise_number" : null,
+		"order_detail_id" : "189568",
+		"first_snapshot_id" : 75219,
+		"last_snapshot_id" : 75234,
+		"updated_snapshot_id" : 75221,
+		"device_outage_status" : "DEVICE_MOVED"
+	},
+	{
+		"transformer_number" : "02511860014",
+		"premise_number" : "387850901",
+		"order_detail_id" : "189566",
+		"first_snapshot_id" : 75219,
+		"last_snapshot_id" : 75224,
+		"updated_snapshot_id" : 75221,
+		"device_outage_status" : "DEVICE_RESTORED"
+	}
+]
